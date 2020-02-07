@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "54426679079",
+    "firebase_url": "https://newmovieucok.firebaseio.com",
+    "project_id": "newmovieucok",
+    "storage_bucket": "newmovieucok.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:54426679079:android:ca2240e697380f33de9b02",
+        "android_client_info": {
+          "package_name": "com.hdmovies.fullhdmovies"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "54426679079-q5qghg0gl1705rkjleq8c5e2ufopuaps.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCg1m_VlI-bMfk_Gg7kUsSvMB0EMVVxjDI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "54426679079-q5qghg0gl1705rkjleq8c5e2ufopuaps.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
